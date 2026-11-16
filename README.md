@@ -3,7 +3,7 @@
 🌱 I'm currently learning: Golang, Java, Data Structures & Algorithms, System Design, and Software Architecture  
 👯 I'm looking to collaborate on: Open-source Go, React, and Fullstack projects  
 💬 Ask me about: React.js, Golang, REST API, PostgreSQL, and Fullstack Development  
-📫 How to reach me: [Your Email]  
+📫 How to reach me: muhammad.fajarr362@gmail.com  
 ⚡ Fun fact: I enjoy building applications from scratch and exploring how things work behind the scenes.
 
 ## 🌐 Socials:
